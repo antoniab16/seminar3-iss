@@ -6,3 +6,12 @@ walk away - 1
 join the fight - 2
 help stop the fight - 3
 tell the manager - 4
+
+	2
+You muster up the courage to put an end to this fight, not sure whether to use your wits or brawn, as you're highly apt in both departments
+
+You decided to throw fists - 5
+You verbally harass them - 6
+You pull your wand out of your ass - 7
+
+
