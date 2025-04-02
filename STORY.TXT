@@ -6,3 +6,10 @@ walk away - 1
 join the fight - 2
 help stop the fight - 3
 tell the manager - 4
+
+
+4 - he gets angry because you bothered him 
+
+you leave - 27	
+start  a fight with him - 28
+go and join the office figth - 3
