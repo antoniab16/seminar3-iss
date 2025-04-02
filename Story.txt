@@ -7,33 +7,60 @@ join the fight - 2
 help stop the fight - 3
 tell the manager - 4
 
-        2
+            
+           1
+Muttering to himself "Idiots", he walked away from the room. 
+"Oppenheimer!" someone yelled. He turned around to see that Florence, the secretry was rushing after him. 
+
+stop and wait to talk to her - 10
+run away FAST - 11
+
+         
+           2
 You muster up the courage to put an end to this fight, not sure whether to use your wits or brawn, as you're highly apt in both departments
 You decided to throw fists - 5
 You verbally harass them - 6
 You pull your wand out of your ass - 7
 
-	5
-You are confident in your physic, you go to the gym every day and it's time to put those bad boys to action.
-Turns out you knock half of the people in the room, but you encounter your biggest weakness while chasing a runner, STAIRS.
-You fall down and knock yourself down.
-
-        7
-You remember that your deity has provided you with a wand to protect yourself, but she strongly believes in peaceful solutions
-You defy the deity, and cast a thunder spell on the physicits - 8
-You defend the guy in the corner who is having a bad day at the job - 9
-
-	8
-The thunder spell was really effective, everybody fell down in 'shock'. You don't get a chance to see the consequences,
-since the deity has banished you to the shadow realm
-	9
-You protected the person from the rest, you actually had a long time to spend with them since the fight lasted an hour.
-The boss was pretty pissed, but the beer with your new friend eased the lay off.
-
-            3
+           
+           3
 Irronically, Oppenheimer got into the middle and started to shout some insane physicsc formula. 
 Who would have known that Oppenheinmer is such a peace lover? 
 
 107 - You want to jump in and beat them up
 210 - You also love peace so you try to help them
 392 - You start to cry in the middle of the corner 
+392 - You start to cry in the middle of the corner
+
+
+            4
+He gets angry because 
+
+you bothered him - 27
+you don't know how to solve your own problems - 28
+he just doesn't like you - 29
+
+
+	         5
+You are confident in your physic, you go to the gym every day and it's time to put those bad boys to action.
+Turns out you knock half of the people in the room, but you encounter your biggest weakness while chasing a runner, STAIRS.
+You fall down and knock yourself down.
+
+
+           7
+You remember that your deity has provided you with a wand to protect yourself, but she strongly believes in peaceful solutions
+You defy the deity, and cast a thunder spell on the physicits - 8
+You defend the guy in the corner who is having a bad day at the job - 9
+
+
+	          8
+The thunder spell was really effective, everybody fell down in 'shock'. You don't get a chance to see the consequences,
+since the deity has banished you to the shadow realm
+	          
+            
+            9
+You protected the person from the rest, you actually had a long time to spend with them since the fight lasted an hour.
+The boss was pretty pissed, but the beer with your new friend eased the lay off.
+
+
+
