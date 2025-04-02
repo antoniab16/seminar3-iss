@@ -7,7 +7,11 @@ join the fight - 2
 help stop the fight - 3
 tell the manager - 4
 
-3
+
+            3
 Irronically, Oppenheimer got into the middle and started to shout some insane physicsc formula. 
 Who would have known that Oppenheinmer is such a peace lover? 
 
+107 - You want to jump in and beat them up
+210 - You also love peace so you try to help them
+392 - You start to cry in the middle of the corner 
