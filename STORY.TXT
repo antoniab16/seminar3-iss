@@ -6,4 +6,3 @@ walk away - 1
 join the fight - 2
 help stop the fight - 3
 tell the manager - 4
-
