@@ -11,4 +11,9 @@ tell the manager - 4
 Irronically, Oppenheimer got into the middle and started to shout some insane physicsc formula. 
 Who would have known that Oppenheinmer is such a peace lover? 
 
+1
+Muttering to himself "Idiots", he walked away from the room. 
+"Oppenheimer!" someone yelled. He turned around to see that Florence, the secretry was rushing after him. 
 
+stop and wait to talk to her - 10
+run away FAST - 11
