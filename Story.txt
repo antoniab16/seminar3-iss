@@ -7,7 +7,6 @@ join the fight - 2
 help stop the fight - 3
 tell the manager - 4
 
-
             1
 Muttering to himself "Idiots", he walked away from the room. 
 "Oppenheimer!" someone yelled. He turned around to see that Florence, the secretry was rushing after him. 
@@ -22,7 +21,14 @@ Who would have known that Oppenheinmer is such a peace lover?
 
 107 - You want to jump in and beat them up
 210 - You also love peace so you try to help them
-392 - You start to cry in the middle of the corner 
+392 - You start to cry in the middle of the corner
 
+
+            4
+He gets angry because 
+
+you bothered him - 27
+you don't know how to solve your own problems - 28
+he just doesn't like you - 29
 
 
