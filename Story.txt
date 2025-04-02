@@ -1,1 +1,17 @@
-written by:  Bardan Irina Buta Antonia Cirnu Bianca Cora Ioan Marius Daniel Ciupe (Gumball Tristopher Waterson) Catrinescu Andrei
+written by:  Bardan Irina Buta Antonia Cirnu Bianca Cora Ioan Marius Daniel Ciupe (Gumball Tristopher Waterson)
+
+He walked into the office and was shocked to discover his team of physicits fighting.
+
+walk away - 1
+join the fight - 2
+help stop the fight - 3
+tell the manager - 4
+
+
+4 - he gets angry because 
+
+you bothered him - 27
+you don't know how to solve your own problems - 28
+he just doesn't like you - 29
+
+
